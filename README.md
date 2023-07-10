@@ -1,2 +1,3 @@
-# moviereview
-Movie Review Fullstack project using Java &amp; React
+# Movie Review Website Using Java and React
+![](images/demo1.png)
+![](images/demo2.png)
